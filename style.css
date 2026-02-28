@@ -35,12 +35,12 @@ a {
 }
 
 .bg-1 {
-    background-color: lighviolet; 
+    background-color: white;
     color: #555555;
 }
 
 .bg-2 {
-    background-color: gray; 
+    background-color: red;
     color: #ffffff;
 }
 
